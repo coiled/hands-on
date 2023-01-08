@@ -1,0 +1,17 @@
+name: hands-on
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - dask
+  - coiled
+  - pyarrow
+  - ipykernel
+  - dask-labextension==6.0
+  - jupyterlab
+  - datashader
+  - s3fs
+  - holoviews
+  - hvplot
+  - optuna
+  - xgboost
