@@ -11,8 +11,8 @@ Instructions
 Clone repository
 
 ```
-git clone https://github.com/mrocklin/coiled-hands-on
-cd coiled-hands-on
+git clone https://github.com/coiled/hands-on
+cd hands-on
 ```
 
 Install software
